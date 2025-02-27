@@ -7,11 +7,11 @@
 # Table Of Contents
   
   - [Introduction of Airbnb](https://github.com/isvamsi/Capstone-project-Airbnb-bookings-analysis-EDA?tab=readme-ov-file#introduction-of-airbnb)
-  - [About the Dataset](https://github.com/isvamsi/Capstone-project-Airbnb-bookings-analysis-EDA/blob/main/About%20the%20dataset%20.pdf)
-  - [Python libraries used](https://github.com/isvamsi/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#different-python-libraries-used-to-complete-this-eda)
-  - [Project Work flow](https://github.com/isvamsi/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#project-work-flow)
-  - [purpose of the analysis](https://github.com/isvamsi/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#the-purpose-of-the-analysis)
-  - [Certificate](https://github.com/isvamsi/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#certificate)
+  - [About the Dataset](https://github.com/isvamsi/Capstone-project-Airbnb-bookings-analysis-EDA#about-the-dataset--airbnb-bookings)
+  - [Python libraries used](https://github.com/isvamsi/Capstone-project-Airbnb-bookings-analysis-EDA#different-python-libraries-used-to-complete-this-eda)
+  - [Project Work flow](https://github.com/isvamsi/Capstone-project-Airbnb-bookings-analysis-EDA#project-work-flow)
+  - [purpose of the analysis](https://github.com/isvamsi/Capstone-project-Airbnb-bookings-analysis-EDA#the-purpose-of-the-analysis)
+  - [Certificate]()
 
 
 
