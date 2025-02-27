@@ -7,7 +7,7 @@
 # Table Of Contents
   
   - [Introduction of Airbnb](https://github.com/isvamsi/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#introduction-of-airbnb)
-  - [About the Dataset](https://github.com/isvamsi/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#about-the-dataset--airbnb-bookings)
+  - [About the Dataset](https://github.com/isvamsi/Capstone-project-Airbnb-bookings-analysis-EDA/blob/main/About%20the%20dataset%20.pdf)
   - [Python libraries used](https://github.com/isvamsi/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#different-python-libraries-used-to-complete-this-eda)
   - [Project Work flow](https://github.com/isvamsi/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#project-work-flow)
   - [purpose of the analysis](https://github.com/isvamsi/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#the-purpose-of-the-analysis)
